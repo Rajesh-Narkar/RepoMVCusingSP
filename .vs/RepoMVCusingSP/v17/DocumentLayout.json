@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\repo\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\repo\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|c:\\users\\rajesh narkar\\source\\repos\\repomvcusingsp\\repomvcusingsp\\migrations\\20240621190658_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE1D7C-F882-4147-9F21-6BFEBB8684A8}|RepoMVCusingSP\\RepoMVCusingSP.csproj|solutionrelative:repomvcusingsp\\migrations\\20240621190658_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:58:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Views\\Emp\\EditEmp.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeToolTip": "RepoMVCusingSP\\Views\\Emp\\EditEmp.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:43:07.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Program.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Program.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:59:25.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Repo\\EmpRepo.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Repo\\EmpRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Repo\\EmpRepo.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Repo\\EmpRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:49:35.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Models\\Emp.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:43:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "RepoMVCusingSP\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:43:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:56:33.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Repo\\EmpService.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Repo\\EmpService.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Repo\\EmpService.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Repo\\EmpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:50:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Views\\Emp\\AddEmp.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeToolTip": "RepoMVCusingSP\\Views\\Emp\\AddEmp.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:57:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240621190658_Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Migrations\\20240621190658_Emp.cs",
+              "RelativeDocumentMoniker": "RepoMVCusingSP\\Migrations\\20240621190658_Emp.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepoMVCusingSP\\RepoMVCusingSP\\Migrations\\20240621190658_Emp.cs",
+              "RelativeToolTip": "RepoMVCusingSP\\Migrations\\20240621190658_Emp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:07:07.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
